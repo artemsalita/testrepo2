@@ -1,4 +1,4 @@
-package sevenbits;
+package com.sevenbits;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

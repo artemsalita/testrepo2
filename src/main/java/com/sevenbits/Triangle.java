@@ -1,4 +1,4 @@
-package sevenbits;
+package com.sevenbits;
 
 
 import com.sun.javaws.exceptions.InvalidArgumentException;

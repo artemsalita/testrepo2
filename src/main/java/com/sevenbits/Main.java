@@ -1,6 +1,6 @@
-package sevenbits;
+package com.sevenbits;
 
-import static sevenbits.DataGenerator.printTriangles;
+import static com.sevenbits.DataGenerator.printTriangles;
 
 public class Main {
     public static void main(String[] args) {
